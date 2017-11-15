@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-api" />
+        <module name="test-consumer" />
+        <module name="test-provider" />
+        <module name="testapi" />
+        <module name="testconsumer" />
+        <module name="testprovder" />
+        <module name="testprovider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbotest" target="1.5" />
+      <module name="test" target="1.5" />
+      <module name="test-api" target="1.5" />
+      <module name="test-consumer" target="1.5" />
+      <module name="test-dubbo" target="1.5" />
+      <module name="test-provider" target="1.5" />
+      <module name="test-web" target="1.5" />
+      <module name="testapi" target="1.5" />
+      <module name="testconsumer" target="1.5" />
+      <module name="testdubbo" target="1.5" />
+      <module name="testprovder" target="1.5" />
+      <module name="testprovider" target="1.5" />
+      <module name="testweb" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
