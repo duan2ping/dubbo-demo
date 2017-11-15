@@ -1,0 +1,44 @@
+.index .main{
+    margin-top: 50px;
+}
+.user .main{
+    margin-top:100px;
+}
+.goods .main{
+    margin-top:100px;
+}
+.toIndex{
+    position: absolute;
+    left:500px;
+    top:130px;
+}
+.showList{
+    margin: 0 auto;
+    border: 1px solid slategrey;
+}
+.showList td{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+.goods .add{
+    position: absolute;
+    right:500px;
+    top:130px;
+}
+.index dl{
+    width: 500px;
+    margin: 0 auto;
+}
+.user .add{
+    position: absolute;
+    right:500px;
+    top:130px;
+}
+
+.addUser table,.addGoods table{
+    width: 400px;
+    height: 300px;
+    border: 1px solid slategrey;
+    margin: 50px auto;
+}
